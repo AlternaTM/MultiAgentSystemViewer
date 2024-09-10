@@ -1,0 +1,38 @@
+# Ignore Binaries and Intermediates
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore Visual Studio Files
+*.sdf
+*.opensdf
+*.suo
+*.VC.db
+*.VC.VC.opendb
+*.log
+
+# Ignore build folder for generated code
+Build/
+
+# Ignore other generated files
+*.pdb
+*.ipch
+*.aps
+*.ncb
+*.obj
+*.user
+*.rsuser
+*.o
+*.so
+*.dylib
+*.dll
+*.exe
+*.app
+*.bat
+*.dat
+*.ini
+*.log
+*.vscode/
+*.userprefs
+*.tmp
