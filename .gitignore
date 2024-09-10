@@ -31,7 +31,6 @@ Build/
 *.app
 *.bat
 *.dat
-*.ini
 *.log
 *.vscode/
 *.userprefs
