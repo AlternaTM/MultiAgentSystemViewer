@@ -5,6 +5,7 @@
 
 #include "GameFramework/SpringArmComponent.h"
 #include "Camera/CameraComponent.h"
+#include "GameFramework/FloatingPawnMovement.h"
 
 #include "TopDownCameraPawn.generated.h"
 
@@ -20,10 +21,19 @@ public:
 
 	virtual void Tick(float DeltaTime) override;
 
+    virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
+
+    void MoveUp(float Value);
+    void MoveRight(float Value);
+    void MoveForward(float Value);
+
 private:
 	UPROPERTY(VisibleAnywhere)
 	UCameraComponent* TopDownCameraComponent;
 
 	UPROPERTY(VisibleAnywhere)
 	USpringArmComponent* SpringArmComponent;
+
+    UPROPERTY(VisibleAnywhere)
+    UFloatingPawnMovement* MovementComponent;
 };

@@ -6,7 +6,6 @@
 #include "Camera/CameraComponent.h"
 #include "GameFramework/SpringArmComponent.h"
 #include "GameFramework/FloatingPawnMovement.h"
-#include "Blueprint/UserWidget.h"
 
 #include "MovableCameraPawn.generated.h"
 

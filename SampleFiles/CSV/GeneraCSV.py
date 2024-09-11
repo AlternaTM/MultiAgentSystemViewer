@@ -9,8 +9,8 @@ def generate_csv(filename):
         # Scrive l'header del CSV
         writer.writerow(["timestamp", "x", "y", "z", "color", "mesh"])
         
-        for i in range(20):
-            timestamp = i + 1  # Timestamp progressivo (può partire da 0 e non essere progressivo)
+        for i in range(21):
+            timestamp = i  # Timestamp progressivo (può partire non da 0 e non essere progressivo)
             x = random.randint(-400, 400)  # Valore casuale per x
             y = random.randint(-400, 400)  # Valore casuale per y
             z = random.randint(-400, 400)  # Valore casuale per z
