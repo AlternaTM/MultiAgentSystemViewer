@@ -21,7 +21,7 @@ public:
 	virtual void Tick(float DeltaTime) override;
 
 	UFUNCTION(BlueprintCallable)
-    bool SpawnNewAgent(const FString& CSVPath);
+    bool SpawnNewAgent(const FString& CSVFolderPath);
 
 	CSVParser* Parser;
 

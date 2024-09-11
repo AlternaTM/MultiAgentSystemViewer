@@ -22,32 +22,58 @@ void AAgentSpawnController::Tick(float DeltaTime)
 
 }
 
-bool AAgentSpawnController::SpawnNewAgent(const FString& CSVPath)
+bool AAgentSpawnController::SpawnNewAgent(const FString& CSVFolderPath)
 {
-	if (!Parser->ParseCSV(CSVPath))
-	{
-        GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT("CSV parsing failed!"));
-		return false;
-	}
+    TArray<FString> CSVFiles;
+    IFileManager& FileManager = IFileManager::Get();
 
-	UCurveVector* MovementCurve = Parser->GetAgentPath();
-	TArray<FAgentAppearance> AppearanceData = Parser->GetAgentAppearance();
+    FString FullCSVFolderPath = CSVFolderPath;
+    FullCSVFolderPath  = FullCSVFolderPath.TrimQuotes();
+    if (!FullCSVFolderPath.EndsWith("/"))
+    {
+        FullCSVFolderPath += "/";
+    }
 
-	for (FAgentAppearance Appearance : AppearanceData)
-	{
-        if (!MeshController->SaveMeshData(Appearance.Mesh))
+    FileManager.FindFiles(CSVFiles, *FullCSVFolderPath, TEXT("*.csv"));
+    bool bOneAgentSpawned = false;
+
+    if (CSVFiles.Num() == 0)
+    {
+        GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT("No CSV files found in the folder!"));
+        return bOneAgentSpawned;
+    }
+
+    for (const FString& CSVFileName : CSVFiles)
+    {
+        FString FullCSVFilePath = FullCSVFolderPath + CSVFileName;
+
+        if (!Parser->ParseCSV(FullCSVFilePath))
         {
-            GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, FString::Printf(TEXT("Invalid .obj path found!")));
-            return false;
+            GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, TEXT("CSV parsing failed!"));
+            continue;
         }
-	}
 
-    FVector Location = FVector(0.0f, 0.0f, 0.0f);
-    FRotator Rotation = FRotator::ZeroRotator;
-    AMovingAgent* NewAgent = GetWorld()->SpawnActor<AMovingAgent>(AMovingAgent::StaticClass(), Location, Rotation);
+        UCurveVector* MovementCurve = Parser->GetAgentPath();
+        TArray<FAgentAppearance> AppearanceData = Parser->GetAgentAppearance();
 
-	NewAgent->SetupAgentData(MeshController, AppearanceData, MovementCurve);
+        for (FAgentAppearance Appearance : AppearanceData)
+        {
+            if (!MeshController->SaveMeshData(Appearance.Mesh))
+            {
+                GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Red, FString::Printf(TEXT("Invalid .obj path found, changed into default Cube mesh")));
+                Appearance.Mesh = "Cube";
+            }
+        }
 
-    GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Green, FString::Printf(TEXT("Agent %s spawned successfully!"), *NewAgent->GetName()));
-    return true;
+        FVector Location = FVector(0.0f, 0.0f, 0.0f);
+        FRotator Rotation = FRotator::ZeroRotator;
+        AMovingAgent* NewAgent = GetWorld()->SpawnActor<AMovingAgent>(AMovingAgent::StaticClass(), Location, Rotation);
+
+        NewAgent->SetupAgentData(MeshController, AppearanceData, MovementCurve);
+        if (!bOneAgentSpawned)
+        {
+            bOneAgentSpawned = true;
+        }
+    }
+    return bOneAgentSpawned;
 }

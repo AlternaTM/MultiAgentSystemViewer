@@ -3,62 +3,6 @@
   "WorkspaceRootPath": "D:\\Unreal Projects\\MultiAgentSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\OBJParser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\Parsing\\OBJParser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\OBJParser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\Parsing\\OBJParser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\CSVParser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\Parsing\\CSVParser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\CSVParser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\Parsing\\CSVParser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\MeshController\\ExternalMeshController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\MeshController\\ExternalMeshController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\MeshController\\ExternalMeshController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\MeshController\\ExternalMeshController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Camera\\TopDownCameraPawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\Camera\\TopDownCameraPawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Camera\\TopDownCameraPawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\Camera\\TopDownCameraPawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Camera\\MovableCameraPawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\Camera\\MovableCameraPawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Camera\\MovableCameraPawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\Camera\\MovableCameraPawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Agent\\MovingAgent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\Agent\\MovingAgent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -71,8 +15,40 @@
       "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\Agent\\AgentAppearance.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Config\\DefaultGameUserSettings.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Config\\DefaultGameUserSettings.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\CSVParser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\Parsing\\CSVParser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\OBJParser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\Parsing\\OBJParser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\OBJParser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\Parsing\\OBJParser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\MeshController\\ExternalMeshController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\MeshController\\ExternalMeshController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\CSVParser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29B43555-A16E-38B1-87AE-D30B3008B86E}|Intermediate\\ProjectFiles\\MultiAgentSystem.vcxproj|solutionrelative:Source\\MultiAgentSystem\\Parsing\\CSVParser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,223 +58,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AgentSpawnController.h",
-              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.h",
-              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.h",
-              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.h",
-              "RelativeToolTip": "Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-10T17:37:30.909Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AgentSpawnController.cpp",
-              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.cpp",
-              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.cpp",
-              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.cpp",
-              "RelativeToolTip": "Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-10T17:37:28.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CustomPlayerController.h",
-              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.h",
-              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.h",
-              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.h",
-              "RelativeToolTip": "Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-10T17:36:22.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MovingAgent.cpp",
-              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Agent\\MovingAgent.cpp",
-              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\Agent\\MovingAgent.cpp",
-              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Agent\\MovingAgent.cpp",
-              "RelativeToolTip": "Source\\MultiAgentSystem\\Agent\\MovingAgent.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-10T17:20:31.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "MovingAgent.h",
               "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Agent\\MovingAgent.h",
               "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\Agent\\MovingAgent.h",
               "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Agent\\MovingAgent.h",
               "RelativeToolTip": "Source\\MultiAgentSystem\\Agent\\MovingAgent.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-10T17:20:35.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MovableCameraPawn.cpp",
-              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Camera\\MovableCameraPawn.cpp",
-              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\Camera\\MovableCameraPawn.cpp",
-              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Camera\\MovableCameraPawn.cpp",
-              "RelativeToolTip": "Source\\MultiAgentSystem\\Camera\\MovableCameraPawn.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-10T17:20:41.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MovableCameraPawn.h",
-              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Camera\\MovableCameraPawn.h",
-              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\Camera\\MovableCameraPawn.h",
-              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Camera\\MovableCameraPawn.h",
-              "RelativeToolTip": "Source\\MultiAgentSystem\\Camera\\MovableCameraPawn.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-10T17:34:27.324Z",
+              "WhenOpened": "2024-09-11T09:42:16.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TopDownCameraPawn.cpp",
-              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Camera\\TopDownCameraPawn.cpp",
-              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\Camera\\TopDownCameraPawn.cpp",
-              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Camera\\TopDownCameraPawn.cpp",
-              "RelativeToolTip": "Source\\MultiAgentSystem\\Camera\\TopDownCameraPawn.cpp",
+              "DocumentIndex": 1,
+              "Title": "MovingAgent.cpp",
+              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Agent\\MovingAgent.cpp",
+              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\Agent\\MovingAgent.cpp",
+              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Agent\\MovingAgent.cpp",
+              "RelativeToolTip": "Source\\MultiAgentSystem\\Agent\\MovingAgent.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-10T17:20:45.596Z",
+              "WhenOpened": "2024-09-11T09:42:15.019Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TopDownCameraPawn.h",
-              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Camera\\TopDownCameraPawn.h",
-              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\Camera\\TopDownCameraPawn.h",
-              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Camera\\TopDownCameraPawn.h",
-              "RelativeToolTip": "Source\\MultiAgentSystem\\Camera\\TopDownCameraPawn.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-10T17:34:29.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ExternalMeshController.cpp",
-              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\MeshController\\ExternalMeshController.cpp",
-              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\MeshController\\ExternalMeshController.cpp",
-              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\MeshController\\ExternalMeshController.cpp",
-              "RelativeToolTip": "Source\\MultiAgentSystem\\MeshController\\ExternalMeshController.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-10T17:20:47.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ExternalMeshController.h",
-              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\MeshController\\ExternalMeshController.h",
-              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\MeshController\\ExternalMeshController.h",
-              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\MeshController\\ExternalMeshController.h",
-              "RelativeToolTip": "Source\\MultiAgentSystem\\MeshController\\ExternalMeshController.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-10T17:20:50.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CSVParser.cpp",
-              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\CSVParser.cpp",
-              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\Parsing\\CSVParser.cpp",
-              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\CSVParser.cpp",
-              "RelativeToolTip": "Source\\MultiAgentSystem\\Parsing\\CSVParser.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-10T17:34:53.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CSVParser.h",
-              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\CSVParser.h",
-              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\Parsing\\CSVParser.h",
-              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\CSVParser.h",
-              "RelativeToolTip": "Source\\MultiAgentSystem\\Parsing\\CSVParser.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-10T17:34:54.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OBJParser.cpp",
-              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\OBJParser.cpp",
-              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\Parsing\\OBJParser.cpp",
-              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\OBJParser.cpp",
-              "RelativeToolTip": "Source\\MultiAgentSystem\\Parsing\\OBJParser.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-10T17:35:23.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OBJParser.h",
-              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\OBJParser.h",
-              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\Parsing\\OBJParser.h",
-              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\OBJParser.h",
-              "RelativeToolTip": "Source\\MultiAgentSystem\\Parsing\\OBJParser.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-10T17:35:21.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CustomPlayerController.cpp",
-              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.cpp",
-              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.cpp",
-              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.cpp",
-              "RelativeToolTip": "Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-10T17:35:31.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 2,
               "Title": "AgentAppearance.h",
               "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Agent\\AgentAppearance.h",
               "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\Agent\\AgentAppearance.h",
@@ -306,21 +96,124 @@
               "RelativeToolTip": "Source\\MultiAgentSystem\\Agent\\AgentAppearance.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-10T17:20:29.87Z",
+              "WhenOpened": "2024-09-11T09:42:12.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DefaultGameUserSettings.ini",
-              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Config\\DefaultGameUserSettings.ini",
-              "RelativeDocumentMoniker": "Config\\DefaultGameUserSettings.ini",
-              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Config\\DefaultGameUserSettings.ini",
-              "RelativeToolTip": "Config\\DefaultGameUserSettings.ini",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
-              "WhenOpened": "2024-09-10T17:22:16.616Z",
+              "DocumentIndex": 3,
+              "Title": "CustomPlayerController.h",
+              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.h",
+              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.h",
+              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.h",
+              "RelativeToolTip": "Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-11T09:34:11.683Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomPlayerController.cpp",
+              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.cpp",
+              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.cpp",
+              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.cpp",
+              "RelativeToolTip": "Source\\MultiAgentSystem\\PlayerController\\CustomPlayerController.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T09:33:45.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OBJParser.cpp",
+              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\OBJParser.cpp",
+              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\Parsing\\OBJParser.cpp",
+              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\OBJParser.cpp",
+              "RelativeToolTip": "Source\\MultiAgentSystem\\Parsing\\OBJParser.cpp",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T08:27:10.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OBJParser.h",
+              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\OBJParser.h",
+              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\Parsing\\OBJParser.h",
+              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\OBJParser.h",
+              "RelativeToolTip": "Source\\MultiAgentSystem\\Parsing\\OBJParser.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-11T08:27:09.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExternalMeshController.h",
+              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\MeshController\\ExternalMeshController.h",
+              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\MeshController\\ExternalMeshController.h",
+              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\MeshController\\ExternalMeshController.h",
+              "RelativeToolTip": "Source\\MultiAgentSystem\\MeshController\\ExternalMeshController.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-11T08:27:07.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CSVParser.h",
+              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\CSVParser.h",
+              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\Parsing\\CSVParser.h",
+              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\CSVParser.h",
+              "RelativeToolTip": "Source\\MultiAgentSystem\\Parsing\\CSVParser.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-11T08:24:39.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CSVParser.cpp",
+              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\CSVParser.cpp",
+              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\Parsing\\CSVParser.cpp",
+              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\Parsing\\CSVParser.cpp",
+              "RelativeToolTip": "Source\\MultiAgentSystem\\Parsing\\CSVParser.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T08:11:23.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgentSpawnController.cpp",
+              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.cpp",
+              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.cpp",
+              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.cpp",
+              "RelativeToolTip": "Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAE0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T07:59:42.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgentSpawnController.h",
+              "DocumentMoniker": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.h",
+              "RelativeDocumentMoniker": "Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.h",
+              "ToolTip": "D:\\Unreal Projects\\MultiAgentSystem\\Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.h",
+              "RelativeToolTip": "Source\\MultiAgentSystem\\SpawnController\\AgentSpawnController.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-11T07:59:41.287Z"
             }
           ]
         }

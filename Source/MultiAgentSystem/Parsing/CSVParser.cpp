@@ -2,10 +2,9 @@
 
 bool CSVParser::ParseCSV(const FString& FilePath)
 {
-	FString CleanFilePath = FilePath.TrimQuotes();
 	FString CSVContent;
 
-    if (!FFileHelper::LoadFileToString(CSVContent, *CleanFilePath))
+    if (!FFileHelper::LoadFileToString(CSVContent, *FilePath))
     {
         UE_LOG(LogTemp, Error, TEXT("Failed to load CSV file: %s"), *FilePath);
         return false;

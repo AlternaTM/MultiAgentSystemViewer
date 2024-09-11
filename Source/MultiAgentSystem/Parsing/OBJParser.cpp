@@ -86,7 +86,7 @@ void OBJParser::ParseNormalLine(const FString& Line)
         float NY = FCString::Atof(*Tokens[2]);
         float NZ = FCString::Atof(*Tokens[3]);
 
-        MeshData.Normals.Add(FVector(NX, NY, NZ));
+        MeshData.Normals.Add(FVector(NX, NZ, NY));
     }
 }
 
