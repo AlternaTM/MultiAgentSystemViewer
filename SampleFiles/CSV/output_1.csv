@@ -1,22 +1,22 @@
 timestamp,x,y,z,color,mesh
-0,369,237,-163,#51f98b,cone
-1,325,184,43,#f135bc,cube
-2,54,169,-65,#373669,sphere
-3,-70,-244,-38,#c44a87,cube
-4,-281,70,-186,#649c88,cube
-5,-251,-62,-215,#9e1beb,cube
-6,-347,-6,393,#46545a,sphere
-7,-11,179,221,#a14f41,sphere
-8,-196,179,138,#e3fe47,cone
-9,-285,179,387,#7ae369,sphere
-10,100,-200,344,#5900ce,cone
-11,257,341,333,#c1b279,cone
-12,353,-47,342,#d9d28a,cone
-13,212,-189,-324,#066554,cone
-14,-111,390,-131,#f6da1e,cone
-15,230,-320,229,#331649,cube
-16,-5,-376,-372,#acd642,cube
-17,-111,-378,335,#cdb909,cube
-18,316,-37,170,#291b4f,sphere
-19,-132,-381,42,#962b6b,cone
-20,-179,-389,-80,#66254f,cube
+0,-184,-305,-328,#177d43,D:\Unreal Projects\MultiAgentSystem\SampleFiles\OBJ\Dog.obj
+1,293,-143,21,#bd6443,D:\Unreal Projects\MultiAgentSystem\SampleFiles\OBJ\Dog.obj
+2,-175,102,-172,#7805bc,D:\Unreal Projects\MultiAgentSystem\SampleFiles\OBJ\Dog.obj
+3,-214,-144,292,#c587db,D:\Unreal Projects\MultiAgentSystem\SampleFiles\OBJ\Dog.obj
+4,138,132,-77,#04e8cf,D:\Unreal Projects\MultiAgentSystem\SampleFiles\OBJ\Dog.obj
+5,27,7,-229,#5f53e2,D:\Unreal Projects\MultiAgentSystem\SampleFiles\OBJ\Dog.obj
+6,-267,-91,316,#88f110,D:\Unreal Projects\MultiAgentSystem\SampleFiles\OBJ\Dog.obj
+7,-339,-208,225,#d43b55,D:\Unreal Projects\MultiAgentSystem\SampleFiles\OBJ\Dog.obj
+8,388,230,25,#779391,D:\Unreal Projects\MultiAgentSystem\SampleFiles\OBJ\Dog.obj
+9,-387,-343,71,#cb7cde,D:\Unreal Projects\MultiAgentSystem\SampleFiles\OBJ\Dog.obj
+10,-122,-181,119,#7e4310,D:\Unreal Projects\MultiAgentSystem\SampleFiles\OBJ\Dog.obj
+11,302,-363,237,#b8f551,D:\Unreal Projects\MultiAgentSystem\SampleFiles\OBJ\Dog.obj
+12,170,240,278,#cb0f2c,D:\Unreal Projects\MultiAgentSystem\SampleFiles\OBJ\Dog.obj
+13,29,332,43,#e9f3bf,D:\Unreal Projects\MultiAgentSystem\SampleFiles\OBJ\Dog.obj
+14,-145,-181,209,#becd83,D:\Unreal Projects\MultiAgentSystem\SampleFiles\OBJ\Dog.obj
+15,50,202,-346,#4ce680,D:\Unreal Projects\MultiAgentSystem\SampleFiles\OBJ\Dog.obj
+16,100,182,-307,#e9860a,D:\Unreal Projects\MultiAgentSystem\SampleFiles\OBJ\Dog.obj
+17,199,-190,-71,#42d72a,D:\Unreal Projects\MultiAgentSystem\SampleFiles\OBJ\Dog.obj
+18,-342,202,-366,#7c7a31,D:\Unreal Projects\MultiAgentSystem\SampleFiles\OBJ\Dog.obj
+19,88,219,307,#8acab5,D:\Unreal Projects\MultiAgentSystem\SampleFiles\OBJ\Dog.obj
+20,-50,-348,280,#b4ebb2,D:\Unreal Projects\MultiAgentSystem\SampleFiles\OBJ\Dog.obj

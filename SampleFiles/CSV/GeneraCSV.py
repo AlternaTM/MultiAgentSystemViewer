@@ -3,7 +3,7 @@ import random
 
 # Genera valori per il CSV
 def generate_csv(filename):
-    shapes = ["cube", "sphere", "cone"]  # Inserire i path dei file obj come segue: r"path/per/il/file/obj"
+    shapes = [r"D:\Unreal Projects\MultiAgentSystem\SampleFiles\OBJ\Dog.obj"]  # Inserire i path dei file obj come segue: r"path/per/il/file/obj"
     with open(filename, mode='w', newline='') as file:
         writer = csv.writer(file)
         # Scrive l'header del CSV
@@ -21,6 +21,6 @@ def generate_csv(filename):
             writer.writerow([timestamp, x, y, z, color, shape])
 
 # Esegui la funzione per creare 10 file CSV diversi
-for i in range(10):
+for i in range(20):
     filename = f'output_{i+1}.csv'
     generate_csv(filename)
